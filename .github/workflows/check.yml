@@ -2,7 +2,7 @@ name: Check Google Play Updates
 
 on:
   schedule:
-    - cron: '0 * * * *' # Запускать автоматически каждый час
+    - cron: '*/15 * * * *'
   workflow_dispatch:    # Позволяет запускать проверку вручную по кнопке на GitHub
 
 permissions:
