@@ -1,5 +1,5 @@
 {
-  "last_checked": 1792734741,
+  "last_checked": 1792753297,
   "apps": [
     {
       "name": "Talking Tom Cat",
@@ -32,7 +32,7 @@
       "name": "Talking Pierre the Parrot",
       "id": "com.outfit7.talkingpierrefree",
       "url": "https://play.google.com/store/apps/details?id=com.outfit7.talkingpierrefree",
-      "version": "4.3.6.477",
+      "version": "4.4.0.490",
       "updated_ts": 1792571916,
       "icon": "https://play-lh.googleusercontent.com/A18y6eEHi58JxdnaVfpZUya_bGvKdbl4IMOGBXNUsme3S_0lTWXlqlc3eIPpMtIbI7JIjd4skJFNj4ZZBtOh",
       "status": "ok"
@@ -105,7 +105,7 @@
       "id": "com.outfit7.mytalkinghank",
       "url": "https://play.google.com/store/apps/details?id=com.outfit7.mytalkinghank",
       "version": "26.5.0.48585",
-      "updated_ts": 1791880709,
+      "updated_ts": 1792749671,
       "icon": "https://play-lh.googleusercontent.com/1HHH9fHxlfYPJAscKFRS7FV7gX1lpWsPzWokQRtMVa7W0hUlkTM329y9sahLqggG7YtM4B0v9CLlFQOR53Fj6g",
       "status": "ok"
     },
