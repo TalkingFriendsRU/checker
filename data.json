@@ -1,5 +1,5 @@
 {
-  "last_checked": 1793013776,
+  "last_checked": 1793035903,
   "apps": [
     {
       "name": "Talking Tom Cat",
@@ -14,7 +14,7 @@
       "name": "Talking Ben the Dog",
       "id": "com.outfit7.talkingben",
       "url": "https://play.google.com/store/apps/details?id=com.outfit7.talkingben",
-      "version": "4.9.7.723",
+      "version": "5.0.0.822",
       "updated_ts": 1792766852,
       "icon": "https://play-lh.googleusercontent.com/CDQpAazzbkH12eOe2ROVfBzXx7y2idfME1aR_wmP5dPBUzEjSSXAqFlGbCIzvyTQTrQfRIy40udavy_5rMhgtq4",
       "status": "ok"
@@ -105,7 +105,7 @@
       "id": "com.outfit7.mytalkinghank",
       "url": "https://play.google.com/store/apps/details?id=com.outfit7.mytalkinghank",
       "version": "26.5.0.48585",
-      "updated_ts": 1792749671,
+      "updated_ts": 1793024768,
       "icon": "https://play-lh.googleusercontent.com/1HHH9fHxlfYPJAscKFRS7FV7gX1lpWsPzWokQRtMVa7W0hUlkTM329y9sahLqggG7YtM4B0v9CLlFQOR53Fj6g",
       "status": "ok"
     },
